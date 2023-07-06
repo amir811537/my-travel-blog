@@ -1,0 +1,22 @@
+nav > ul > li {
+    display: inline;
+    margin-right: 15px;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(87, 98, 114);
+}
+img{
+    width: 100%;
+}
+footer{
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+}
+body{
+    text-align: center;
+}
