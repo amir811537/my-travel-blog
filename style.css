@@ -10,7 +10,8 @@ a:hover{
     color: rgb(87, 98, 114);
 }
 img{
-    width: 100%;
+    width: 500px;
+    height: 500px;
 }
 footer{
     padding: 20px;
